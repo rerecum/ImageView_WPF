@@ -27,7 +27,7 @@ namespace ImageView
 
         private void szerokosc_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
-
+            szerokosc.Value = 
         }
     }
 }
