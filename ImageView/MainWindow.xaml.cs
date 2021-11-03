@@ -25,9 +25,9 @@ namespace ImageView
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void szerokosc_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
-            //
+
         }
     }
 }
